@@ -8,3 +8,19 @@ public class calculadora {
 	}
 
 }
+private static int suma(int a, int b) {
+	return 0;
+}
+private static int resta(int a, int b) {
+	return 0;
+}
+private static int multiplica(int a, int b){
+	return 0;
+}
+private static int divide(int a, int b) {
+	return 0;
+}
+private static int modulo(int a, int b) {
+	return 0;
+
+	
