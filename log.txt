@@ -1,0 +1,2 @@
+774f44c (HEAD -> main, origin/main) Tareas A completadas
+8da04bd (PuntoPartida, ramaA) cambio ramaA - añadido comentario

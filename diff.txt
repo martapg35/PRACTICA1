@@ -1,0 +1,8 @@
+diff --git a/src/main/java/calculadora.java b/src/main/java/calculadora.java
+index 8b0a3a1..e9f6e4d 100644
+--- a/src/main/java/calculadora.java
++++ b/src/main/java/calculadora.java
+@@ public class Calculadora {
+- // TODO Auto-generated method stub
++ int suma32 = suma(3, 2);
++ System.out.println("Suma 3 + 2 = " + suma32);
